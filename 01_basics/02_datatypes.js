@@ -17,7 +17,7 @@ let isLoggedIn = true
 
 /* Common  Primitive datatypes 
 number => 2 to power 53 range
-bigit => 2 to power 53 - 1
+bigint => 2 to power 53 - 1
 string => ""
 boolean = true/false
 null => standalone value (means not zero, not empty, not undefined just leave it intentionally null value)
