@@ -38,5 +38,4 @@ console.log("2"==2)  // it will print true
 console.log("2" === 2);  // in === comaprison, it will check strictly because with the number it will check datatype also and will print False.
 // Because '==' is called the loose equality operator. It allows javascript to perform Type Coercion.
 // Javascript sees "2" is a string and 2 is a number and converts the string into a number for the comparison.
-// But "===" is a Strict Equality comparison. Because it will value with datatype if both the datatypes are different but the 
-// value is same then it will print appropirate results.
+// But "===" is a Strict Equality comparison. Because it will value with datatype if both the datatypes are different but the value is same then it will print appropirate results.

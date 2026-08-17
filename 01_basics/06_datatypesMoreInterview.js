@@ -15,7 +15,7 @@ const bigNumber = 12348965467n   // --> bigint datatype. For making a BigInt dat
 
 
 
-// 2. Reference (NOn-Primitive)
+// 2. Reference (Non-Primitive)
         // Array, Objects, Functions
 
 const heros = ["shaktiman","arjun","bhishm"]
